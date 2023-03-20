@@ -248,11 +248,11 @@ header {
     font-size: 4vh;
 }
 
-#test{
-    animation: Test 3s infinite;
+#messageDiv{
+    animation: messageDiv 3s infinite;
 }
 
-@keyframes Test{
+@keyframes messageDiv{
     0%{opacity: 1;}
     50%{opacity: 0;}
     100%{opacity: 1;}
