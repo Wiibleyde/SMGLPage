@@ -316,11 +316,6 @@ header {
 
     }
 
-    .invisible {
-        visibility: hidden;
-        display: none;
-    }
-
     .secret {
         visibility: hidden;
         display: none;
